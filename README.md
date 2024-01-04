@@ -14,17 +14,31 @@ Here are some ideas to get you started:
 -->
 
 ### Yahoo~ 👋 
-見つけじゃだねー
 
-Ryougi Shiky です〜
+**見つけじゃだねー**
 
-<div>
+**Ryougi Shiky です〜**
+
+<div align=center>
   <span> </span>
   <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" />
   <span> </span>
   <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryougi-shiky&hide=javascript,Jupyter%20Notebook&layout=compact&langs_count=8&theme=flag-india" />
   <span> </span>
 </div>
+<!--
+<table border="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryougi-shiky&hide=javascript,Jupyter%20Notebook&layout=compact&langs_count=8&theme=flag-india" /></td>
+  </tr>
+</table>
+
+| | |
+|:-:|:-:|
+| ![](https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryougi-shiky&hide=javascript,Jupyter%20Notebook&layout=compact&langs_count=8&theme=flag-india) |
+-->
+
 
 ## 🛠 Skills
 - 🌐 HTML | CSS | JavaScript | React.js
