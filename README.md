@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **見つけじゃだねー**
 
-**Ryougi Shiky です〜**
+**Ryougi Shiki です〜**
 
 ## 🛠 Skills
 - 🌐 HTML | CSS | JavaScript | React.js
