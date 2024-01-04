@@ -20,9 +20,9 @@ Ryougi Shiky です〜
 
 <div>
   <span> </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" />
   <span> </span>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryougi-shiky&hide=javascript,Jupyter%20Notebook&layout=compact&langs_count=8&theme=flag-india" />
+  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryougi-shiky&hide=javascript,Jupyter%20Notebook&layout=compact&langs_count=8&theme=flag-india" />
   <span> </span>
 </div>
 
