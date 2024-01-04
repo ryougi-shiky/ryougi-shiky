@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Ryougi Shiky です〜
 
-<div align="center">
+<div>
   <span> </span>
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" />
   <span> </span>
