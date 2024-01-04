@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 **Ryougi Shiky です〜**
 
+## 🛠 Skills
+- 🌐 HTML | CSS | JavaScript | React.js
+- ⚙️ Go | Python | Java | C++
+- 🔧 Git | Markdown
+- 🎓 English is ok. 日本語勉強中〜
+
+
 <div align=center>
   <span> </span>
   <img height="210px" src="https://github-readme-stats.vercel.app/api?username=ryougi-shiky&theme=buefy" />
@@ -41,10 +48,6 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠 Skills
-- 🌐 HTML | CSS | JavaScript | React.js
-- ⚙️ Go | Python | Java | C++
-- 🔧 Git | Markdown
-- 🎓 English is ok. 日本語勉強中〜
+
 
 
