@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Yahoo~ 👋 
 
-**見つけじゃだねー**
+**見つけじゃだね～**
 
 **Ryougi Shiki です〜**
 
